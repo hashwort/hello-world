@@ -1,2 +1,2 @@
 # hello-world
-just another respiratory
+very curious about c++
